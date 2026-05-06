@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegmad&show_icons=true&theme=radical&locale=ru&hide_border=true" alt="Моя статистика" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegmad&layout=compact&theme=radical&hide_border=true" alt="Топ языков" width="48%" />
-</p>
-
----
-
 ### 🌐 Контакты
 
 <p align="left">
