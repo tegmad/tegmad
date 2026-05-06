@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist | Machine Learning & Computer Vision Engineer</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=[ТВОЙ_GITHUB_NICKNAME]&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры" /> 
+  <img src="https://komarev.com/ghpvc/?username=tegmad&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры" /> 
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ### 🛠 Технологии и Инструменты
 
-**Языки и Инженерия данных:**
+**Стеки:**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -46,8 +46,8 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_GITHUB_NICKNAME]&show_icons=true&theme=radical&locale=ru&hide_border=true" alt="Моя статистика" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_GITHUB_NICKNAME]&layout=compact&theme=radical&hide_border=true" alt="Топ языков" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tegmad&show_icons=true&theme=radical&locale=ru&hide_border=true" alt="Моя статистика" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegmad&layout=compact&theme=radical&hide_border=true" alt="Топ языков" width="48%" />
 </p>
 
 ---
@@ -55,10 +55,10 @@
 ### 🌐 Контакты
 
 <p align="left">
-  <a href="https://linkedin.com/in/[ТВОЙ_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/madi-tegisbek-6230522a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/[ТВОЙ_TELEGRAM]" target="_blank">
+  <a href="https://t.me/madixmv" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
