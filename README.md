@@ -1,55 +1,31 @@
-<h1 align="center">Привет, я Мади! 👋</h1>
+### Привет 👋
 
-<h3 align="center">Data Scientist | Machine Learning & Computer Vision Engineer</h3>
+Я Мади, Data Scientist и ML/CV-инженер из Алматы.
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tegmad&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры" /> 
-</p>
+Раньше работал аналитиком данных во Freedom Bank, а сейчас фокусируюсь на машинном обучении, компьютерном зрении и доведении моделей до продакшена (MLOps). 
 
----
-
-### 👨‍💻 Обо мне (Коротко и по делу)
-
-* 💼 Имею **1 год коммерческого опыта** работы в компании **Freedom** Как Аналитик Данных.
-* 🧠 Специализируюсь на **Machine Learning**, **Deep Learning** и **Computer Vision**.
-* ⚙️ Не только обучаю модели, но и понимаю, как довести их до продакшена (Docker, K8s, Airflow).
-* 🌱 Сейчас углубляю знания в **[MLOps Backend ]**
-* 📫 Связаться со мной: **[Ссылка на Telegram / Email]**
+Здесь я выкладываю свои проекты, эксперименты с нейросетями и код, который пишу. Мне нравится строить системы с нуля и делать так, чтобы алгоритмы приносили реальную пользу бизнесу.
 
 ---
 
-### 🛠 Технологии и Инструменты
+### Инструменты и Технологии
 
-**Стеки:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-</p>
-
-**Machine Learning & Computer Vision:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-**MLOps & DevOps:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-</p>
+* **Языки и аналитика:** Python, SQL, Power BI
+* **ML & Deep Learning & Computer Vision:** PyTorch, scikit-learn
+* **MLOps & Инфраструктура:** Docker, Kubernetes, Airflow (изучаю MLOps Backend)
 
 ---
 
-### 🌐 Контакты
+### Немного обо мне
 
-<p align="left">
-  <a href="https://linkedin.com/in/madi-tegisbek-6230522a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/madixmv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+* 🎓 Заканчиваю 4-й курс бакалавриата по специальности Information Systems , SDU University
+* 🎮 Большой фанат игр с хорошим сюжетом и выбором (GTA V, Mafia, The Walking Dead)
+* 🎧 Часто пишу код и обучаю модели под плейлисты из Spotify
+* 🧱 Люблю создавать вещи, которые работают просто, надежно и со смыслом
+
+---
+
+### Связь со мной
+
+* [LinkedIn](https://linkedin.com/in/madi-tegisbek-6230522a4/)
+* [Telegram](https://t.me/madixmv)
